@@ -1,2 +1,28 @@
 body { 
-backgroud-color 
+background-color: black;
+color:blueviolet;
+ font-family: "trebuchet MS", "comic sans MS" cursive;
+ margin:0;
+}
+
+header { 
+    font-size:60px;
+    padding:6px;
+    text-align:center;
+}
+h1 { 
+    font-size: 30px;
+    border-bottom: douple 5px palevioletred;
+    text-align: center;
+}
+
+p { 
+    font-size: 20px;
+    text-align: center;
+}
+iframe,video { 
+    display: block;
+    margin: 0 auto;
+     width:80%;
+     width: 700px;
+}
